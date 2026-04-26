@@ -1,6 +1,6 @@
 ## Stack
 
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="50px" height="auto" alt="VS Code">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="50px" height="auto" alt="VS Code" style="display: inline;"> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="50px" height="auto" alt="Git" style="display: inline;">
 
 <!--
 **iamtowvee/iamtowvee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
