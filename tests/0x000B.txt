@@ -1,5 +1,5 @@
 EXAMPLE FILE. NEEDED TO TEST THE NETWORK.
 — Nobody has bought the ad yet... :/
 ---
-|-> FILE-CODE: 0x000A
-|-> FILE-NAME: 0x000A.txt
+|-> FILE-CODE: 0x000B
+|-> FILE-NAME: 0x000B.txt
