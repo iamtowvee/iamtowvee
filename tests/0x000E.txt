@@ -1,0 +1,6 @@
+EXAMPLE FILE. NEEDED TO TEST THE NETWORK.
+— The cat needs dopamine. He went to work as a miner... Danger is a fairy tale for adults.
+— Although the worst thing is to hear "Oops" in the surgeon's office.
+---
+|-> FILE-CODE: 0x000E
+|-> FILE-NAME: 0x000E.txt
