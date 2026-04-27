@@ -1,0 +1,5 @@
+EXAMPLE FILE. NEEDED TO TEST THE NETWORK.
+— Have you even seen the previous file? (°-°)
+---
+|-> FILE-CODE: 0x0006
+|-> FILE-NAME: 0x0006.txt
