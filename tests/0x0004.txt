@@ -1,5 +1,5 @@
 EXAMPLE FILE. NEEDED TO TEST THE NETWORK.
 — Try to rob the Citadel and the world will become a more beautiful place © Head of the Citadel (honestly). ;)
 ---
-|-> FILE-CODE: 0x0003
-|-> FILE-NAME: 0x0003.txt
+|-> FILE-CODE: 0x0004
+|-> FILE-NAME: 0x0004.txt
