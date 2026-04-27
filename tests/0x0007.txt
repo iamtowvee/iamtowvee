@@ -1,0 +1,5 @@
+EXAMPLE FILE. NEEDED TO TEST THE NETWORK.
+— Why the [Censored | You're still too young for this] doesn't it work? (o_O)
+---
+|-> FILE-CODE: 0x0007
+|-> FILE-NAME: 0x0007.txt
