@@ -1,0 +1,5 @@
+EXAMPLE FILE. NEEDED TO TEST THE NETWORK.
+— If you give me a fish, there will be no bugs. :3
+---
+|-> FILE-CODE: 0x0002
+|-> FILE-NAME: 0x0002.txt
