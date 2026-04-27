@@ -1,0 +1,5 @@
+EXAMPLE FILE. NEEDED TO TEST THE NETWORK.
+— Why did they create me? I don't like this face... :-)
+---
+|-> FILE-CODE: 0x0008
+|-> FILE-NAME: 0x0008.txt
