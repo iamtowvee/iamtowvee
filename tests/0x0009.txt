@@ -1,0 +1,7 @@
+EXAMPLE FILE. NEEDED TO TEST THE NETWORK.
+— As a philosopher, I can say that I am not discussing a philosophical question now.
+— As an engineer, I can say that I am not discussing engineering in this post.
+— And only I, as a cultured person, can say that I always discuss music. Listen to the right music (P.S. All music is right).
+---
+|-> FILE-CODE: 0x0008
+|-> FILE-NAME: 0x0008.txt
