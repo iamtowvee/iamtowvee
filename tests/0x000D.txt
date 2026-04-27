@@ -1,0 +1,5 @@
+EXAMPLE FILE. NEEDED TO TEST THE NETWORK.
+— Why can't the small indie company Steam give away all its games for free? (T-T)
+---
+|-> FILE-CODE: 0x000D
+|-> FILE-NAME: 0x000D.txt
