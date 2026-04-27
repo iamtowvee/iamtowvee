@@ -1,5 +1,5 @@
 EXAMPLE FILE. NEEDED TO TEST THE NETWORK.
-— If you get lost in the forest, go home. :)
+— USEFUL TIP: If you get lost in the forest, go home. :)
 ---
 |-> FILE-CODE: 0x0003
 |-> FILE-NAME: 0x0003.txt
