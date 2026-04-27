@@ -1,0 +1,5 @@
+EXAMPLE FILE. NEEDED TO TEST THE NETWORK.
+— Nooooo! That's it, the end... It was a very interesting, but very short life of a very interesting, but very short cat. † Sleep tight BLA-BLA-CAT.
+---
+|-> FILE-CODE: 0x000F
+|-> FILE-NAME: 0x000F.txt
