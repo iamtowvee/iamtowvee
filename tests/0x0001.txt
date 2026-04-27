@@ -1,4 +1,5 @@
 EXAMPLE FILE. NEEDED TO TEST THE NETWORK.
+— Hello, I'm BLA-BLA-CAT. I'm 3 y.o. (^-^)
 ---
 |-> FILE-CODE: 0x0001
 |-> FILE-NAME: 0x0001.txt
