@@ -1,0 +1,5 @@
+EXAMPLE FILE. NEEDED TO TEST THE NETWORK.
+— Meow, meow-meow meow-meow-meow meow. (^O_O^)
+---
+|-> FILE-CODE: 0x000C
+|-> FILE-NAME: 0x000C.txt
