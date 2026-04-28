@@ -7,3 +7,8 @@
 
 ## About
 I'm 15 y.o. I don't say my name. I program for fun; if I'm not interested in a project, I won't do it even for money.
+
+## Contacts & Links
+Email: <iamtowvee@gmail.com>
+Discord: 
+GitHub: @iamtowvee
