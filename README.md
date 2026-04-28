@@ -10,5 +10,5 @@ I'm 15 y.o. I don't say my name. I program for fun; if I'm not interested in a p
 
 ## Contacts & Links
 Email: <iamtowvee@gmail.com>
-Discord: 
-GitHub: @iamtowvee
+Discord: [click here](https://discordapp.com/users/1442880834897182844)
+GitHub: [@iamtowvee](https://github.com/iamtowvee)
