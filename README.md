@@ -13,6 +13,10 @@
 ## About
 I'm 15 y.o. I don't say my name (use iamtowvee, or simply `iat`, `tow`, etc). I program for fun; if I'm not interested in a project, I won't do it even for money.
 
+## Projects
+
+Skorpion Programming Language
+
 ## Contacts & Links
 Email: <iamtowvee@gmail.com>
 
